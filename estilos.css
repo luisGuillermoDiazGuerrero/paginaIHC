@@ -1,0 +1,109 @@
+html{
+    min-height: 100%;
+    position: relative;
+}
+body{ 
+    background-color: white;
+    align-items: center;
+    font-family: serif, sans-serif, 'Open Sans';
+    margin: auto;
+    padding: auto;
+}
+
+header{
+    margin: auto;
+    padding: 20px;
+    background-color: black;
+}
+
+div{
+    margin: auto;
+    padding: auto;
+}
+
+img {
+    height: 200px;
+    width: 200px;
+    align-items: left;
+    
+    margin-left: 500px;
+}
+
+h2{
+    font-size: 50px;
+    align-items: center;
+    justify-content: center;
+    margin-left: 250px;
+}
+
+footer{
+    margin: auto;
+    padding: 10px;
+    background-color: black;
+}
+
+p {
+    color:white;
+    font-weight: bold;
+    font-size: large;
+}
+
+#nav ul{
+    list-style-type: none;
+    align-items: center;
+}
+
+#nav li{
+    display: inline;
+    text-align: center;
+    margin: auto;
+}
+
+#nav li a{
+    margin-left: 90px;
+    padding: 10px 20px 10px 20px;
+    color: white;
+    background-color: black;
+    text-decoration: none;
+    font-size: large;
+}
+
+#nav li a:hover{
+    background-color: white;
+    color: black;
+}
+
+#pie ul{
+    list-style-type: none;
+    align-items: center;
+}
+
+#pie li{
+    display: inline;
+    text-align: center;
+    margin: auto;
+}
+
+#pie li a{
+    margin-left: 180px;
+    padding: 10px 20px 10px 20px;
+    color: white;
+    background-color: black;
+    text-decoration: none;
+    font-size: large;
+}
+
+#pie li a:hover{
+    background-color: white;
+    color: black;
+}
+
+
+img.redimension {
+  width:110px;
+  height:80px;
+ 
+}
+.redesok{
+   
+}
